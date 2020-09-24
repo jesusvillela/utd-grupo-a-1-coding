@@ -1,0 +1,12 @@
+#include <stdlib.h>
+#include <stdio.h>
+
+int main() {// inicio del programa
+
+
+printf("Me gustan lo chilaquiles \n");
+printf("Con cafecito de olla \n");
+
+system("pause");
+return 0;
+} 
